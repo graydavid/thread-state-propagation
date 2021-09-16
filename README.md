@@ -60,6 +60,6 @@ ThreadStatePropagationStarter starter = ThreadStatePropagationStarter
         .simplyGettingAndSettingState(stateManager);
 ```
 
-##Contributions
+## Contributions
 
 Contributions are welcome! See the [graydavid-parent](https://github.com/graydavid/graydavid-parent) project for details.
